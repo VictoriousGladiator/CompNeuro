@@ -1,2 +1,2 @@
 # CompNeuro
-Work on the Coursera Course on Computational Neuroscience by University of Washington
+Working on the Coursera course on Computational Neuroscience offered by the University of Washington
