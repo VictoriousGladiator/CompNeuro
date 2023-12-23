@@ -1,5 +1,7 @@
 # CompNeuro
 Installation of octave (open source alternative to MATLAB):
+
+
 <b>Brew:</b>
 ```sh
 brew update && brew upgrade
