@@ -1,5 +1,5 @@
 # CompNeuro
-Installation of (octave)[https://docs.octave.org/interpreter/index.html] (open source alternative to MATLAB):
+Installation of [octave](https://docs.octave.org/interpreter/index.html) (open source alternative to MATLAB):
 
 
 <b>Brew:</b>
